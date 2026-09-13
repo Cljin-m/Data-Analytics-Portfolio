@@ -6,9 +6,9 @@
 
 | 项目 | 能力重点 | 使用工具 | 入口 |
 | --- | --- | --- | --- |
-| Customer Segmentation with RFM-I | 用户价值分层、RFM-I 评分、营销标签设计、ROI 情景模拟 | Python, Pandas, NumPy, Matplotlib, Jupyter Notebook | [customer-segmentation-rfmi](Data-Analytics-Portfolio/customer-segmentation-rfmi/) |
-| Conversion Page A/B Test | 实验数据清洗、转化率检验、国家维度下钻 | Python, Pandas, SciPy, Statsmodels, Matplotlib, Jupyter Notebook | [conversion-ab-test](Data-Analytics-Portfolio/conversion-ab-test/) |
-| Beauty E-commerce SQL + Tableau Analysis | 用户行为分析、转化漏斗、留存、RFM、商品品类分析、Dashboard | MySQL, SQL, Tableau, Markdown | [ecommerce-sql-tableau-analysis](Data-Analytics-Portfolio/ecommerce-sql-tableau-analysis/) |
+| Customer Segmentation with RFM-I | 用户价值分层、RFM-I 评分、营销标签设计、ROI 情景模拟 | Python, Pandas, NumPy, Matplotlib, Jupyter Notebook | [customer-segmentation-rfmi](customer-segmentation-rfmi/) |
+| Conversion Page A/B Test | 实验数据清洗、转化率检验、国家维度下钻 | Python, Pandas, SciPy, Statsmodels, Matplotlib, Jupyter Notebook | [conversion-ab-test](conversion-ab-test/) |
+| Beauty E-commerce SQL + Tableau Analysis | 用户行为分析、转化漏斗、留存、RFM、商品品类分析、Dashboard | MySQL, SQL, Tableau, Markdown | [ecommerce-sql-tableau-analysis](ecommerce-sql-tableau-analysis/) |
 
 ## 能力矩阵
 
