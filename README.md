@@ -40,15 +40,6 @@ Data-Analytics-Portfolio/
     └── README.md
 ```
 
-保留的原始分析文件：
-
-```text
-ecommerce-user-segmentation.ipynb
-page_ab_test.ipynb
-电商美妆/运用MySQL和Tableau的电商用户分析.md
-电商美妆/图片和附件/
-```
-
 ## 数据说明
 
 当前工作区不包含 Notebook 引用的原始 CSV 文件。各项目 README 只记录 Notebook 和报告中能够验证的数据路径、字段、方法和输出，不声明仓库已包含完整原始数据。
