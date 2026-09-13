@@ -68,17 +68,20 @@ https://tianchi.aliyun.com/dataset/196209
 
 ```text
 ecommerce-sql-tableau-analysis/
-└── README.md
+├── README.md
+└── MySQL&Tableau/
+    ├── 运用MySQL和Tableau的电商用户分析.md
+    └── 图片和附件/
 ```
 
 当前工作区中的原始报告和截图：
 
 ```text
-../../电商美妆/运用MySQL和Tableau的电商用户分析.md
-../../电商美妆/图片和附件/
+MySQL&Tableau/运用MySQL和Tableau的电商用户分析.md
+MySQL&Tableau/图片和附件/
 ```
 
-报告入口：[运用MySQL和Tableau的电商用户分析.md](../../电商美妆/运用MySQL和Tableau的电商用户分析.md)
+报告入口：[运用MySQL和Tableau的电商用户分析.md](MySQL&Tableau/运用MySQL和Tableau的电商用户分析.md)
 
 ## 如何运行
 
@@ -101,4 +104,3 @@ ecommerce-sql-tableau-analysis/
 - RFM 分类表。
 - 商品品类热度和行为统计表。
 - Tableau Dashboard 截图。
-
