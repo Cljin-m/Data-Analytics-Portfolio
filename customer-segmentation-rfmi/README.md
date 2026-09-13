@@ -71,18 +71,19 @@ Notebook 输出可验证的数据规模为 `1000 行 x 14 列`，缺失值总数
 
 ```text
 customer-segmentation-rfmi/
-└── README.md
+├── README.md
+└── customer-segmentation-rfmi.ipynb
 ```
 
 当前工作区中的原始 Notebook：
 
 ```text
-../../ecommerce-user-segmentation.ipynb
+customer-segmentation-rfmi.ipynb
 ```
 
 ## 如何运行
 
-将数据文件放置在以下路径后，打开 [`ecommerce-user-segmentation.ipynb`](../../ecommerce-user-segmentation.ipynb)，按 Notebook 单元格顺序执行：
+将数据文件放置在以下路径后，打开 [`customer-segmentation-rfmi.ipynb`](customer-segmentation-rfmi.ipynb)，按 Notebook 单元格顺序执行：
 
 ```text
 data/user_personalized_features.csv
@@ -102,4 +103,3 @@ outputs/ROI_result/roi_comparison.png
 - 营销扩展标签汇总。
 - 用户分层可视化。
 - ROI 对比表和 `roi_comparison.png`。
-
