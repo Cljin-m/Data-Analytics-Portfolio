@@ -69,19 +69,18 @@ https://tianchi.aliyun.com/dataset/196209
 ```text
 ecommerce-sql-tableau-analysis/
 ├── README.md
-└── MySQL&Tableau/
-    ├── 运用MySQL和Tableau的电商用户分析.md
-    └── 图片和附件/
+├── 运用MySQL和Tableau的电商用户分析.md
+└── 图片和附件/
 ```
 
 当前工作区中的原始报告和截图：
 
 ```text
-MySQL&Tableau/运用MySQL和Tableau的电商用户分析.md
-MySQL&Tableau/图片和附件/
+运用MySQL和Tableau的电商用户分析.md
+图片和附件/
 ```
 
-报告入口：[运用MySQL和Tableau的电商用户分析.md](MySQL&Tableau/运用MySQL和Tableau的电商用户分析.md)
+报告入口：[运用MySQL和Tableau的电商用户分析.md](运用MySQL和Tableau的电商用户分析.md)
 
 ## 如何运行
 
