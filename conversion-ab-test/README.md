@@ -75,18 +75,19 @@ data/countries.csv
 
 ```text
 conversion-ab-test/
-└── README.md
+├── README.md
+└── conversion-ab-test.ipynb
 ```
 
 当前工作区中的原始 Notebook：
 
 ```text
-../page_ab_test.ipynb
+conversion-ab-test.ipynb
 ```
 
 ## 如何运行
 
-将数据文件放置在以下路径后，打开 [`page_ab_test.ipynb`](../page_ab_test.ipynb)，按 Notebook 单元格顺序执行：
+将数据文件放置在以下路径后，打开 [`conversion-ab-test.ipynb`](conversion-ab-test.ipynb)，按 Notebook 单元格顺序执行：
 
 ```text
 data/ab_data.csv
